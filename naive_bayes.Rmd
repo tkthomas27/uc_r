@@ -1,0 +1,11 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(rsample)  # data splitting 
+library(caret)    # implementing with caret
+library(h2o)      # implementing with h2o
+```
+
